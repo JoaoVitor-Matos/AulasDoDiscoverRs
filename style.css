@@ -25,6 +25,7 @@
     background-image: var(--bg-url); /* colocar a imagem de fundo*/
     background-repeat: no-repeat; /* colocar a imagem so uma vez sem repetir */
     background-position: top center; /* colocar a imagem no meio*/
+    height: 100vh;
     background-size: cover; /* cobre todo o espaço visivel (as partes brancas */
   }
   body * {
@@ -133,3 +134,11 @@
     font-size: 14px;
   }
   
+  @media (min-width: 700px){
+    :root{
+        --bg-url: url(assets/assets/bg-desktop.jpg);
+    }
+    .light{
+        --bg-url: url(assets/assets/bg-desktop-light.jpg);
+    }
+  }
