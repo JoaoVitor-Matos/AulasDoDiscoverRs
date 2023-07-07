@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto é foi feito com o axulio de um curso da rocketseat da discover que tem como intuito criar um Devlink.
+Este projeto foi feito com o axulio de um curso da rocketseat da discover que tem como intuito criar um Devlink.
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
